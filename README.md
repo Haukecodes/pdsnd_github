@@ -5,10 +5,10 @@
 US Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Analyzing US Bikeshare data with Python to produce an interface that delivers some interesting stat about the data.
 
 ### Files used
-Include the files used
+goog-1
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+None
