@@ -1,6 +1,6 @@
 # python Udacity/Python/bikeshare_proj.py
 
-#Lorem Ipsum change
+#Lorem Ipsum change for GitHub project... 
 
 
 # I changed teh strcture as referenced in "Suggestions to Make Your Project Stand Out!" in the project specifications
