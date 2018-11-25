@@ -5,7 +5,7 @@
 US Bikeshare
 
 ### Description
-Analyzing US Bikeshare data with Python to produce an interface that delivers some interesting stat about the data.
+Analyzing US Bikeshare data with Python to produce an interface that delivers some interesting stats about the data.
 
 ### Files used
 goog-1
